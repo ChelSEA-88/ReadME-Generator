@@ -1,5 +1,6 @@
 
-  # Project Title Generate a README.md file
+  # Project Title;
+  Generate a README.md file
 
   ## Description of Project: 
   This applicaation will help you generate a README.md file for your project.
@@ -20,7 +21,7 @@
   Run 'node index.js' then follow and answer the prompted questions.
 
   ## Contributing Developers
-  
+  Chelsea Haviland
 
   ## Testing
   Insert your test samples here.
@@ -49,5 +50,5 @@ SOFTWARE.
 
   ## Questions?
 
-  If you have any questions, please contact chelsea on GitHub.
+  If you have any questions, please contact Chelsea-88 on GitHub.
 
