@@ -51,4 +51,7 @@ SOFTWARE.
   ## Questions?
 
   If you have any questions, please contact Chelsea-88 on GitHub.
+  
+  ## Video of the working application:
+  https://drive.google.com/file/d/1x0dnwFYjVz16VGp11nHUV6IRVpAmKWPd/view
 
