@@ -16,6 +16,7 @@
   
   ## Installation
   In your integrated terminal window, run 'npm install'. Then run 'node index.js'.
+  ![](utils/demo.png)
 
   ## How to use this application:
   Run 'node index.js' then follow and answer the prompted questions.
