@@ -51,7 +51,8 @@ const questions = [
     {
         type: "input",
         message: "Please enter GitHub user names of the contributors to this project.",
-        name: "contributors"
+        name: "contributors",
+        default: "Chelsea Haviland"
 
     },
 
@@ -67,12 +68,6 @@ const questions = [
 
 // function to write README file
 
-
-// const writeToFile = (fileName, data) => {
-//     fs.writeFile(fileName + '.md', data) => { 
-        
-//         console.log(`${fileName + '.md'} generated!`)
-// }
 
 function writeToFile(fileName, data) {
     return fs.writeFileSync(fileName, data);

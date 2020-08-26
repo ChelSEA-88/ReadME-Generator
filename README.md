@@ -26,7 +26,7 @@
   Insert your test samples here.
 
   ## Licensing
-  [Github License](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+  ![Github License](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
   Copyright © 2020 <copyright holders>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

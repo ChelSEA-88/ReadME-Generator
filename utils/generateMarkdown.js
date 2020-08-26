@@ -1,11 +1,12 @@
 function renderBadge(license){
-  return `[Github License](https://img.shields.io/badge/license-${license}-yellowgreen.svg)`
+  return `![Github License](https://img.shields.io/badge/license-${license}-yellowgreen.svg)`
 }
 
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `
-  # Project Title ${data.title}
+  # Project Title;
+  ${data.title}
 
   ## Description of Project: 
   ${data.description}
